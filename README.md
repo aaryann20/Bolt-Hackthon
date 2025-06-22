@@ -815,6 +815,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the ContractCompanion Team**
 
-[Website](https://contractcompanion.com) • [Twitter](https://twitter.com/contractcompanion) • [Discord](https://discord.gg/contractcompanion)
+[Website](https://bolt-hackthon.vercel.app/) • [Twitter](https://x.com/soniaaryan20?s=21) • [Discord](https://discord.gg/contractcompanion)
 
 </div> 
