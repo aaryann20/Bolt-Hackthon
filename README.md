@@ -468,21 +468,40 @@ graph TB
     V --> Q
 ```
 
----
-Financial Data APIs
-Real-time Market Infrastructure:
+##Contract Analysis Pipeline
 ```mermaid
-graph TB
-    A[Market Data Service] --> B[Binance API]
-    A --> C[Polygon.io]
-    A --> D[CoinGecko]
-    B --> E[WebSocket Streams]
-    C --> F[Technical Indicators]
-    D --> G[Historical Trends]
-    E --> H[Live Price Alerts]
-    ```
-    
+    graph LR
+    A[Smart Contract Code] --> B[Lexical Analysis]
+    B --> C[AST Generation]
+    C --> D[Pattern Matching]
+    D --> E[Reentrancy Check]
+    D --> F[Overflow Detection]
+    D --> G[Access Control Audit]
+    E --> H[Security Score]
+    F --> H
+    G --> H
+    H --> I[AI Recommendations]
+```
+##Real-Time Data Flow
+```mermaid
+    graph TB
+    A[Binance WebSocket] --> B[Market Service]
+    B --> C[Risk Algorithm]
+    C --> D[Dashboard]
+    D --> E[Price Alerts]
+```
+##Deployment CI/CD Pipeline
+```mermaid
+    graph LR
+    A[GitHub] --> B[ESLint]
+    B --> C[Vite Build]
+    C --> D[Jest Tests]
+    D --> E[Netlify]
+    E --> F[Canary Release]
+```
+
 ---
+
 
 ## 🔗 Class Relationships
 
