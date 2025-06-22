@@ -468,7 +468,7 @@ graph TB
     V --> Q
 ```
 ---
-##Contract Analysis Pipeline
+## Contract Analysis Pipeline
 ```mermaid
     graph LR
     A[Smart Contract Code] --> B[Lexical Analysis]
@@ -483,7 +483,7 @@ graph TB
     H --> I[AI Recommendations]
 ```
 ---
-##Real-Time Data Flow
+## Real-Time Data Flow
 ```mermaid
     graph TB
     A[Binance WebSocket] --> B[Market Service]
@@ -492,7 +492,7 @@ graph TB
     D --> E[Price Alerts]
 ```
 ---
-##Deployment CI/CD Pipeline
+## Deployment CI/CD Pipeline
 ```mermaid
     graph LR
     A[GitHub] --> B[ESLint]
