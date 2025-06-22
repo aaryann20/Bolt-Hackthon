@@ -467,7 +467,7 @@ graph TB
     U --> O
     V --> Q
 ```
-
+---
 ##Contract Analysis Pipeline
 ```mermaid
     graph LR
@@ -482,6 +482,7 @@ graph TB
     G --> H
     H --> I[AI Recommendations]
 ```
+---
 ##Real-Time Data Flow
 ```mermaid
     graph TB
@@ -490,6 +491,7 @@ graph TB
     C --> D[Dashboard]
     D --> E[Price Alerts]
 ```
+---
 ##Deployment CI/CD Pipeline
 ```mermaid
     graph LR
