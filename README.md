@@ -469,6 +469,20 @@ graph TB
 ```
 
 ---
+Financial Data APIs
+Real-time Market Infrastructure:
+```mermaid
+graph TB
+    A[Market Data Service] --> B[Binance API]
+    A --> C[Polygon.io]
+    A --> D[CoinGecko]
+    B --> E[WebSocket Streams]
+    C --> F[Technical Indicators]
+    D --> G[Historical Trends]
+    E --> H[Live Price Alerts]
+    ```
+    
+---
 
 ## 🔗 Class Relationships
 
