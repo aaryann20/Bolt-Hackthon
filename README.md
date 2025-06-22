@@ -12,7 +12,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38B2AC.svg)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Live Demo](https://contractcompanion.netlify.app) • [Documentation](https://docs.contractcompanion.com) • [Report Bug](https://github.com/yourusername/contractcompanion/issues)
+[Live Demo](https://bolt-hackthon.vercel.app/) • [Documentation](https://docs.contractcompanion.com) • [Report Bug](https://github.com/aaryann20/Bolt-Hackthon)
 
 </div>
 
